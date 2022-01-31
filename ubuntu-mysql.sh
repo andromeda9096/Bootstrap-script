@@ -3,7 +3,7 @@
 
 sudo apt-get update -y && sudo apt install mysql-server -y
 
-sudo systemctl start mysqld
+sudo service mysql start
 
 export REMOTE_USER=myuser
 export REMOTE_PW=MyPW@123
