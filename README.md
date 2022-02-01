@@ -1,1 +1,1 @@
-# Bootstrap-script
+# Bash-script
